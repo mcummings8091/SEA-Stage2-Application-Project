@@ -1,3 +1,5 @@
+https://mcummings8091.github.io/SEA-Stage2-Application-Project/
+
 # SEA Stage 2 - Data Catalog Project
 
 This is the instructions, requirements, and starter for stage two of the Snap Engineering Academy application process.
