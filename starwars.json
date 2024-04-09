@@ -1,0 +1,133 @@
+[
+  {
+    "name": "Luke Skywalker",
+    "affiliation": "light",
+    "movies": ["A New Hope", "The Empire Strikes Back", "Return of the Jedi"],
+    "lastSeen": "34 ABY",
+    "image": "https://qph.cf2.quoracdn.net/main-qimg-245c16f1758674f110c6251ca1707da2-lq"
+  },
+  {
+    "name": "Darth Vader",
+    "affiliation": "dark",
+    "movies": ["A New Hope", "The Empire Strikes Back", "Return of the Jedi"],
+    "lastSeen": "4 ABY",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/darth-vader-main_4560aff7.jpeg"
+  },
+  {
+    "name": "Princess Leia",
+    "affiliation": "light",
+    "movies": ["A New Hope", "The Empire Strikes Back", "Return of the Jedi"],
+    "image": "https://static1.cbrimages.com/wordpress/wp-content/uploads/2016/12/Princess-Leia.jpg"
+  },
+  {
+    "name": "Obi-Wan Kenobi",
+    "affiliation": "light",
+    "movies": [
+      "The Phantom Menace",
+      "Attack of the Clones",
+      "Revenge of the Sith",
+      "A New Hope"
+    ],
+    "lastSeen": "0 BBY",
+    "image": "https://ew.com/thmb/SB6FWBPXLFn_vLXiRRhoLzJBMzk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/revenge-of-the-sith-2000-8a98ad56e8834130969bddf9350671c7.jpg"
+  },
+  {
+    "name": "Emperor Palpatine",
+    "affiliation": "dark",
+    "movies": [
+      "The Phantom Menace",
+      "Attack of the Clones",
+      "Revenge of the Sith",
+      "Return of the Jedi"
+    ],
+    "lastSeen": "4 ABY",
+    "image": "https://upload.wikimedia.org/wikipedia/en/8/8f/Emperor_RotJ.png"
+  },
+  {
+    "name": "Yoda",
+    "affiliation": "light",
+    "movies": [
+      "The Phantom Menace",
+      "Attack of the Clones",
+      "Revenge of the Sith",
+      "The Empire Strikes Back",
+      "Return of the Jedi"
+    ],
+    "lastSeen": "4 ABY",
+    "image": "https://miro.medium.com/v2/resize:fit:1200/1*adzOpocPYZe3dUDu8YtwWA.jpeg"
+  },
+  {
+    "name": "Count Dooku",
+    "affiliation": "dark",
+    "movies": ["Attack of the Clones", "Revenge of the Sith"],
+    "lastSeen": "19 BBY",
+    "image": "https://i.redd.it/n3sr1v3644s81.jpg"
+  },
+  {
+    "name": "Han Solo",
+    "affiliation": "light",
+    "movies": [
+      "A New Hope",
+      "The Empire Strikes Back",
+      "Return of the Jedi",
+      "The Force Awakens"
+    ],
+    "lastSeen": "34 ABY",
+    "image": "https://compote.slate.com/images/2b6fb34a-8047-4e17-b3d5-64987519657d.jpg"
+  },
+  {
+    "name": "Chewbacca",
+    "affiliation": "light",
+    "movies": [
+      "A New Hope",
+      "The Empire Strikes Back",
+      "Return of the Jedi",
+      "The Force Awakens",
+      "The Last Jedi"
+    ],
+    "lastSeen": "34 ABY",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/5e94826f7d7499000120d564-image_f9b9d30e.jpeg?region=0%2C48%2C1536%2C768"
+  },
+  {
+    "name": "Kylo Ren",
+    "affiliation": "dark",
+    "movies": ["The Force Awakens", "The Last Jedi", "The Rise of Skywalker"],
+    "lastSeen": "35 ABY",
+    "image": "https://helios-i.mashable.com/imagery/articles/03zNV1Vq1m6KlvhuA1rjolQ/hero-image.fill.size_1200x1200.v1623368082.jpg"
+  },
+  {
+    "name": "Rey",
+    "affiliation": "light",
+    "movies": ["The Force Awakens", "The Last Jedi", "The Rise of Skywalker"],
+    "lastSeen": "35 ABY",
+    "image": "https://upload.wikimedia.org/wikipedia/en/a/af/Rey_Star_Wars.png"
+  },
+  {
+    "name": "Darth Maul",
+    "affiliation": "dark",
+    "movies": ["The Phantom Menace"],
+    "lastSeen": "32 BBY",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/image_c0d20b99.jpeg?region=158,0,1244,700"
+  },
+  {
+    "name": "General Grievous",
+    "affiliation": "dark",
+    "movies": ["Attack of the Clones", "Revenge of the Sith"],
+    "lastSeen": "19 BBY",
+    "image": "https://i.redd.it/t6ux7wahy6ib1.jpg"
+  },
+  {
+    "name": "Asajj Ventress",
+    "affiliation": "dark",
+    "movies": ["Attack of the Clones", "The Clone Wars"],
+    "lastSeen": "19 BBY",
+    "image": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/08/collage-maker-24-aug-2023-12-41-pm-1519.jpg"
+  },
+  {
+    "name": "Supreme Leader Snoke",
+    "affiliation": "dark",
+    "movies": ["The Force Awakens", "The Last Jedi", "The Rise of Skywalker"],
+    "lastSeen": "35 ABY",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/last-jedi-snoke-quote-1_09d3c792.jpeg?region=0%2C40%2C1280%2C640"
+  }
+]
